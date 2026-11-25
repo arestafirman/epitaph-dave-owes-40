@@ -4,9 +4,9 @@ An epitaph for the Famous Last Words competition: a dying man's final words that
 
 Competition: https://make.fun/c/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406
 
-![Competition](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406.svg)
-![Rank](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/arestafirman/epitaph-dave-owes-40/rank.svg)
-![Reward](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/arestafirman/epitaph-dave-owes-40/reward.svg)
+[![Competition](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406.svg)](https://make.fun/c/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
+[![Rank](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/arestafirman/epitaph-dave-owes-40/rank.svg)](https://make.fun/c/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
+[![Reward](https://make.fun/badge/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406/arestafirman/epitaph-dave-owes-40/reward.svg)](https://make.fun/c/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406)
 
 ## Entry
 
